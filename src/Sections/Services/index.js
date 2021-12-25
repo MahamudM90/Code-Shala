@@ -358,7 +358,7 @@ const Services = () => {
       <Content>
         <TextBlock
           topic="Support"
-          title={<h1>We provide support for your digital presence</h1>}
+          title={<h1>Building a strong online presence is our goal.</h1>}
           subText={
             <h5>
               Once your system is online, we will stay on hand to help you use

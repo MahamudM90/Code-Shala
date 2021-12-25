@@ -1,4 +1,4 @@
-// This is HeroSection component, Main top section of website
+
 
 import styled, { keyframes } from "styled-components";
 
@@ -193,7 +193,7 @@ const HeroSection = () => {
             <Circle />
             <span>We Build Web</span>
           </Topic>
-          <Title>Transforming your digital presence</Title>
+          <Title>We strive to build a strong online presence</Title>
           <SubText>
             we help fast growing companies build award winning websites
           </SubText>
