@@ -146,11 +146,11 @@ const Contact = () => {
       </Icons>
       <Form>
         <Row>
-          <input name="name" type="text" placeholder="your name" />
+          <input name="name" type="text" placeholder="Your Name" />
           <input
             name="email"
             type="email"
-            placeholder="enter working email id"
+            placeholder="Enter Working Email Id"
           />
         </Row>
         <textarea
@@ -158,7 +158,7 @@ const Contact = () => {
           id=""
           cols="30"
           rows="2"
-          placeholder="your message"
+          placeholder="Your Message"
         ></textarea>
         <div style={{ margin: "0 auto" }}>
           <button
