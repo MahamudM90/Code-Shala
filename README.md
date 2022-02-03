@@ -15,6 +15,8 @@ This is Demo of a Company Website.
 
 ##### Client Reviews
 ![ScreenShot of Form](screenshorts/e.png)
+
+##### Footer
 ![ScreenShot of Form](screenshorts/f.png)
 
 
