@@ -1,4 +1,4 @@
-# CODE-SHALA
+# CODE-SHALA ✨
 This is Demo of a Company Website.
 
 ##### HomePage
