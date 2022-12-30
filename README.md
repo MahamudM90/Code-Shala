@@ -23,5 +23,5 @@ This is the  Demo of a Company Website.
 Setup:
 - run ```npm i && npm start```
 
-### [Live Site](https://code-shala.netlify.app/)
+### [Live Site](https://code-shala.netlify.app)
 
